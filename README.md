@@ -5,6 +5,7 @@
 <li>Básico 2: Modelado relacional.</li>
 <li>Extra (opcional): Crear la estructura del modelado anterior en un proyecto de base de datos. Crear perfiles de publicación para diferentes entornos.</li>
 </ul>
+
 ## Consultas
 <ul>
 Crear un fichero consultas.script.sql y resolver las siguientes consultas (copiar el enunciado de la consulta como comentario sobre la SELECT):
