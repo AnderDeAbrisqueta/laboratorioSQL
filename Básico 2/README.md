@@ -44,7 +44,15 @@ Se tienen que generar los siguientes ficheros:
 
 ## Solución
 
+De acuerdo al enunciado se han establecuido las siguientes entidades:
 
+<ul>
+  <li>Cursos</li>
+  <li>Autores</li>
+  <li>Artículos</li>
+  <li>Videos</li>
+  <li>Temáticas</li>
+</ul>
 
 
 
