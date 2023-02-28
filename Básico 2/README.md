@@ -21,6 +21,21 @@ A tener en cuenta:
 </li>
 </ul>
 
+## Parte obligatoria
+
+Generar un modelado que refleje los siguiente requerimientos:
+
+<ul>
+  <li>Queremos mostrar los últimos cursos publicados.</li>
+  <li>Queremos mostrar cursos por área (devops / front End ...).</li>
+  <li>Queremos mostrar un curso con sus videos.</li>
+  <li>En un video queremos mostrar su autor.</li>
+</ul>
+
+
+
+
+
 
 
 
