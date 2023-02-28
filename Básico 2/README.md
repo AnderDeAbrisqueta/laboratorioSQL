@@ -32,6 +32,19 @@ Generar un modelado que refleje los siguiente requerimientos:
   <li>En un video queremos mostrar su autor.</li>
 </ul>
 
+## Entregable
+
+Se tienen que generar los siguientes ficheros:
+
+<ul>
+  <li>Diagrama del modelo de datos.</li>
+  <li>Markdown con explicación de porque se ha realizado dicho modelado, patrones aplicados y razón.
+</li>
+</ul>
+
+## Solución
+
+
 
 
 
