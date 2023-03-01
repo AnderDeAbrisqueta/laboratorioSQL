@@ -54,6 +54,8 @@ De acuerdo al enunciado se han establecuido las siguientes entidades:
   <li>Temáticas</li>
 </ul>
 
+La entidad Cursos se relaciona con <b> Autores, Artículos y Videos </b> con una relación, valga la redundancia, muchos a muchos. Al igual que las entidades Autores y Artículos. Creamdo tablas con claves primarias compuestas. Por otra parte, la entidad Videos se relaciona con Temática, entidad débil, 
+
 
 
 
