@@ -61,6 +61,8 @@ La entidad <b>Cursos</b> se relaciona con <b> Autores, Artículos y Videos </b> 
 <b>Figura 1.1:</b> Diagrama E/R.
 
 
+Se puede observar el Esquema Relacional en el archivo. Con esta estructura se pueden dar respuesta a las preguntas solicitadas. Por ejemplo, la primera pregunta se puede obtener con un atributo calculado de la tabla <b>Autores_Cursos</b>, a partir de la fecha de creación. Los Videos de un curso se pueden obtener de la tabla <b>Cursos_Videos</b>. Para mostrar el autor de un Video se usan las tablas<b> Videos y Autores</b>. Finalmente, la temática de un curso se puede obtener de las tablas; <b>Cursos, Videos y Temática</b>.
+
 
 
 
