@@ -58,6 +58,10 @@ La entidad <b>Cursos</b> se relaciona con <b> Autores, Artículos y Videos </b> 
 
 <img width="1000px" src="laboratorioSQL_diagrama_ER.png">
 
+<b>Figura 1.1:</b> Diagrama E/R.
+
+
+
 
 
 
