@@ -56,7 +56,7 @@ De acuerdo al enunciado se han establecuido las siguientes entidades:
 
 La entidad <b>Cursos</b> se relaciona con <b> Autores, Artículos y Videos </b> con una relación, valga la redundancia, muchos a muchos. Al igual que las entidades <b>Autores y Artículos</b>. Creando nuevas tablas con claves primarias compuestas. Por otra parte, la entidad <b>Videos</b> se relaciona con <b>Temática</b>, entidad débil, con una relación uno a muchos, al igual que que <b>Autores y Videos</b>.
 
-![]()
+<img width="500px" src="laboratorioSQL_diagrama_ER.png">
 
 
 
